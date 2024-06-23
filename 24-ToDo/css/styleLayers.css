@@ -1,0 +1,41 @@
+.change-page {
+    color: #000;
+    font-weight: bold;
+    font-size: 2em;
+    z-index: 999;
+    border: 2px solid #ff9000;
+    background-color: #ff9000
+}
+
+.change-page:hover {
+    color: #ff9000;
+    background-color: #000;
+    border: 2px solid #ff9000;
+}
+
+.foto-montaz {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border: 2px solid #ff9000;
+    border-radius: 15px;
+}
+
+.foto-opis {
+    font-size: 1em;
+    color: #ff9000;
+}
+
+.change-cat {
+    color: #000;
+    font-weight: bold;
+    font-size: 2em;
+    z-index: 999;
+    border: 2px solid #c8ff00;
+    background-color: #c8ff00;
+}
+
+.change-cat:hover {
+    color: #c8ff00;
+    background-color: #000;
+    border: 2px solid #c8ff00;
+}

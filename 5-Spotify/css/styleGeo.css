@@ -1,0 +1,31 @@
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 5px;
+}
+
+th,
+td {
+    border: 1px solid #000000 !important;
+    padding: 5px;
+}
+
+td {
+    background-color: #151515 !important;
+}
+
+th {
+    background-color: #ff9000 !important;
+    color: #000000 !important;
+}
+
+@media only screen and (max-width: 992px) {
+    td {
+        font-size: 0.5em !important;
+    }
+
+    th {
+        font-size: 0.5em !important;
+    }
+
+}
