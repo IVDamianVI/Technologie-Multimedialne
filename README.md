@@ -3,8 +3,10 @@
 Pełna lista zadań z przedmiotu Technologie Multimedialne:
 [ivdamianvi.smallhost.pl](https://ivdamianvi.smallhost.pl)
 
+Wszystkie strony wymagające logowania/rejestracji mają utworzonego użytkownika o loginie `user` i haśle `user`.
+
 ## Zadanie 3 - Komunikator
-Strona: [ivdamianvi.smallhost.pl/z3/](https://ivdamianvi.smallhost.pl/z3/)
+[Repozytorium](3-Komunikator) | [Strona z aplikacją](https://ivdamianvi.smallhost.pl/z3/)
 
 ## Zadanie 4 - Magazyn w chmurze
 Strona: [ivdamianvi.smallhost.pl/z4/](https://ivdamianvi.smallhost.pl/z4/)
